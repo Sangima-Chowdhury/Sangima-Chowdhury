@@ -9,8 +9,8 @@ web apps and AI-powered tools using Flask and the Anthropic Claude API.
 - 🤖 **AI Recipe Generator** — Enter ingredients you have → Claude suggests 
 a full recipe. Built with Flask + Anthropic API, deployed on Render. 
 [Live demo](https://ai-recipe-generator-oa08.onrender.com)
-- 🗂 **5 other Python Flask apps** — Expense tracker, habit tracker 
-(PostgreSQL), task tracker, todo app with login, dice game.
+- 🗂 **6 other Python Flask apps** — Expense tracker, habit tracker 
+(PostgreSQL), task tracker, todo app with login, number guessing game, dice game.
 
 ## Tech stack
 Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · HTML & CSS · 
