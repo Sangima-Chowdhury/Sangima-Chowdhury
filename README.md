@@ -17,9 +17,11 @@ If the website has been inactive for a while, the first load may take 30–60 se
 - 🗂 **6 other Python Flask apps** — Expense tracker, habit tracker 
 (PostgreSQL), task tracker, todo app with login, number guessing game, dice game.
 
+
 ## Tech stack
 Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · HTML & CSS · 
 Git & GitHub · Render
+
 
 ## Currently learning
 LangChain · RAG pipelines · Vector databases · Building more AI-powered apps
