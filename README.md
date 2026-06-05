@@ -6,6 +6,18 @@ web apps and AI-powered tools using Flask and the Anthropic Claude API.
 
 ## What I'm building
 
+- 🤝 **WithMe** — Community needs platform where 
+people post what they need and others help directly. 
+Built with Flask, PostgreSQL, Claude AI. 
+[Live demo](https://withme-034l.onrender.com)
+
+
+- 🧠 **AI Life OS** — Personal AI coach for life, 
+career and productivity. Built with Flask + Claude AI, 
+with user authentication.
+[Live demo](https://ai-life-os-mavj.onrender.com)
+
+
 - 🤖 **AI Recipe Generator** — Enter ingredients you have → Claude suggests 
 a full recipe. Built with Flask + Anthropic API, deployed on Render. 
 [Live demo](https://ai-recipe-generator-oa08.onrender.com)
@@ -14,13 +26,15 @@ This app is hosted on Render's free tier.
 If the website has been inactive for a while, the first load may take 30–60 seconds while the server wakes up.
 
 
-- 🗂 **6 other Python Flask apps** — Expense tracker, habit tracker 
+- 🗂 **7 other Python Flask apps** — Expense tracker, habit tracker 
 (PostgreSQL), task tracker, todo app with login, number guessing game, dice game.
 
 
 ## Tech stack
-Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · HTML & CSS · 
-Git & GitHub · Render
+Python · Flask · Anthropic Claude API · PostgreSQL · 
+SQLite · HTML & CSS · Git & GitHub · Render · 
+SQLAlchemy · Jinja2
+
 
 
 ## Currently learning
