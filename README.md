@@ -6,45 +6,48 @@ web apps and AI-powered tools using Flask and the Anthropic Claude API.
 
 ## What I'm building
 
-- 🤝 **WithMe** — Community needs platform where 
-people post what they need and others help directly. 
-Built with Flask, PostgreSQL, Claude AI. 
-[Live demo](https://withme-034l.onrender.com)
+🤝 WithMe — Community Needs Platform
+People post what they need (food, medical, shelter, education) and others help directly — no middleman, no fees.
+Built with Flask · PostgreSQL · SQLAlchemy · Claude AI · Cloudinary · Render
+	•	🤖 Claude AI generates a compassionate summary of every post automatically
+	•	💬 Nested comments & threaded replies (self-referential model + recursive Jinja2 macro)
+	•	✉️ Internal DM messaging system (Instagram-style) with profanity filtering and safety banners
+	•	🔐 Email verification via Resend — accounts confirmed before login
+	•	🚨 Urgency flagging, location tagging, and Cloudinary photo uploads
+⏳ Hosted on Render’s free tier — first load after inactivity may take 30–60 seconds.
 
 
-- 🧠 **AI Life OS** — Personal AI coach for life, 
-career and productivity. Built with Flask + Claude AI, 
-with user authentication.
-[Live demo](https://ai-life-os-mavj.onrender.com)
+🧠 AI Life OS — Personal AI Coach
+AI-powered action plans for life, career, productivity and personal development.
+Built with Flask · SQLAlchemy · Claude AI · Auth · PDF Export · Render
+	•	Secure user authentication with plan history
+	•	PDF export with ReportLab
+⏳ Hosted on Render’s free tier — first load after inactivity may take 30–60 seconds.
 
-
-- 🤖 **AI Recipe Generator** — Enter ingredients you have → Claude suggests 
-a full recipe. Built with Flask + Anthropic API, deployed on Render. 
-[Live demo](https://ai-recipe-generator-oa08.onrender.com)
-## Note
-This app is hosted on Render's free tier.  
-If the website has been inactive for a while, the first load may take 30–60 seconds while the server wakes up.
+🤖 AI Recipe Generator — Ingredient → Recipe
+Enter what you have in the fridge and Claude generates a full recipe with instructions.
+Built with Flask · Anthropic Claude API · Render
+⏳ Hosted on Render’s free tier — first load after inactivity may take 30–60 seconds
 
 
 - 🗂 **6 other Python Flask apps** — Expense tracker, habit tracker 
 (PostgreSQL), task tracker, todo app with login, number guessing game, dice game.
 
 
-## Tech stack
-Python · Flask · Anthropic Claude API · PostgreSQL · 
-SQLite · HTML & CSS · Git & GitHub · Render · 
-SQLAlchemy · Jinja2
+🛠 Tech Stack
+Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend
 
 
-
-## Currently learning
+📚 Currently Learning
 LangChain · RAG pipelines · Vector databases · Building more AI-powered apps
 
-## Certifications
+
+
+🏅Certifications
 Python Developer · Python Intermediate · Introduction to Python · Coding for 
 Data · Data Analytics with AI · ML for Beginners · Write with AI — all via 
-Sololearn (2025)
+Sololearn (2025) • Python — Santander Open Academy (2026)
 
 ---
-Open to junior AI engineer / Python developer roles in London. 
-Feel free to reach out!
+📬 Open To
+Junior AI Engineer / Python Developer / Full Stack Developer roles in London — feel free to reach out!
