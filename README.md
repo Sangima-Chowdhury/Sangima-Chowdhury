@@ -16,6 +16,8 @@ Built with Flask · PostgreSQL · SQLAlchemy · Claude AI · Cloudinary · Rende
 	•	✉️ Internal DM messaging system (Instagram-style) with profanity filtering and safety banners
 	•	🔐 Email verification via Resend — accounts confirmed before login
 	•	🚨 Urgency flagging, location tagging, and Cloudinary photo uploads
+	•   🤖 AI helper chatbot built with LangChain, ChromaDB & RAG (local dev)
+	
 ⏳ Hosted on Render’s free tier — first load after inactivity may take 30–60 seconds.
 
 
@@ -43,11 +45,11 @@ Expense tracker, habit tracker
 
 
 🛠 Tech Stack
-Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend
+Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend · AI chatbot · LangChain · OpenAI embeddings (RAG)
 
 
 📚 Currently Learning
-LangChain · RAG pipelines · Vector databases · Building more AI-powered apps
+Fine-tuning · FastAPI · Cloud deployment (AWS/GCP) · Building more AI-powered apps
 
 
 
