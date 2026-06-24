@@ -3,16 +3,29 @@
 Self-taught Python & AI developer based in East London, building and shipping AI-powered web apps alongside my work as a Special Educational Needs Teaching Assistant.
 10 deployed apps in 12 months, entirely through self-study.
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Claude API](https://img.shields.io/badge/Anthropic_Claude-D4A574?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
 ## What I'm building
 
 
 🔍 BangLense — Multimodal AI Letter Explainer
+(https://github.com/Sangima-Chowdhury/banglense) — [Live](https://banglense.onrender.com)
 
 
 Photographs official UK letters and explains them in plain Bangla with audio — built for elderly Bangladeshi family members who struggle with English bureaucracy.
-Built with Flask · Anthropic Vision API · Pillow · Web Speech API · Render
+Built with Flask · Anthropic Vision API · Pillow · Web Speech API · Render • AWS EC2
     •   ⏳ Hosted on Render's free tier — first load may take 30–60 seconds.
-
+	•   🚀 Deployed on both Render and AWS EC2 (Ubuntu, Nginx, systemd).
 
 🤝 WithMe — Community Needs Platform
 
@@ -54,11 +67,11 @@ Expense tracker, habit tracker
 
 🛠 Tech Stack
 Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend · AI chatbot · LangChain · OpenAI embeddings (RAG) ·
-Pillow (image processing) ·  Anthropic Vision API (multimodal) · Web Speech API
+Pillow (image processing) ·  Anthropic Vision API (multimodal) · Web Speech API · Cloud: AWS EC2 · Nginx · Linux (Ubuntu) 
 
 
 📚 Currently Learning
-Fine-tuning · FastAPI · AWS (redeploying BangLense as a cloud project)· Building more AI-powered apps
+Fine-tuning · FastAPI · Expanding cloud skills · Building more AI-powered apps
 
 
 
