@@ -1,10 +1,18 @@
 # Hi, I'm Sangima 👋
 
-I'm a career changer breaking into AI engineering, previously working as a 
-Special Educational Needs Teaching Assistant in East London. I build Python 
-web apps and AI-powered tools using Flask and the Anthropic Claude API.
+Self-taught Python & AI developer based in East London, building and shipping AI-powered web apps alongside my work as a Special Educational Needs Teaching Assistant.
+10 deployed apps in 12 months, entirely through self-study.
 
 ## What I'm building
+
+
+🔍 BangLense — Multimodal AI Letter Explainer
+
+
+Photographs official UK letters and explains them in plain Bangla with audio — built for elderly Bangladeshi family members who struggle with English bureaucracy.
+Built with Flask · Anthropic Vision API · Pillow · Web Speech API · Render
+    •   ⏳ Hosted on Render's free tier — first load may take 30–60 seconds.
+
 
 🤝 WithMe — Community Needs Platform
 
@@ -45,11 +53,12 @@ Expense tracker, habit tracker
 
 
 🛠 Tech Stack
-Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend · AI chatbot · LangChain · OpenAI embeddings (RAG)
+Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend · AI chatbot · LangChain · OpenAI embeddings (RAG) ·
+Pillow (image processing) ·  Anthropic Vision API (multimodal) · Web Speech API
 
 
 📚 Currently Learning
-Fine-tuning · FastAPI · Cloud deployment (AWS/GCP) · Building more AI-powered apps
+Fine-tuning · FastAPI · AWS (redeploying BangLense as a cloud project)· Building more AI-powered apps
 
 
 
