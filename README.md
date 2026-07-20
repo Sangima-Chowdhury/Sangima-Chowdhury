@@ -1,7 +1,7 @@
 # Hi, I'm Sangima 👋
 
 Self-taught Python & AI developer based in East London, building and shipping AI-powered web apps alongside my work as a Special Educational Needs Teaching Assistant.
-10 deployed apps in 12 months, entirely through self-study.
+11 deployed apps in 12 months, entirely through self-study.
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -13,19 +13,29 @@ Self-taught Python & AI developer based in East London, building and shipping AI
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+![Serper](https://img.shields.io/badge/Serper_API-FF6B35?style=flat)
 
 ## What I'm building
+
+
+🎯 RoleRadar — Agentic Job Co-Pilot
+(https://github.com/Sangima-Chowdhury/role-radar) — [Live](https://role-radar.onrender.com)
+
+Paste a job URL and an AI agent researches the company, flags red flags, scores your CV fit, and writes a tailored cover letter. Uses Anthropic Claude's tool use / function calling — Claude decides which tools to call across a multi-step autonomous loop.
+Built with Flask · Anthropic Tool Use · Serper API · BeautifulSoup · Render · AWS EC2
+⏳ Hosted on Render's free tier — first load may take 60–90 seconds.
+🚀 Deployed on both Render and AWS EC2 (same instance as BangLense, port 8001).
+
 
 
 🔍 BangLense — Multimodal AI Letter Explainer
 (https://github.com/Sangima-Chowdhury/banglense) — [Live](https://banglense.onrender.com)
 
-
 Photographs official UK letters and explains them in plain Bangla with audio — built for elderly Bangladeshi family members who struggle with English bureaucracy.
 Built with Flask · Anthropic Vision API · Pillow · Web Speech API · Render • AWS EC2
     •   ⏳ Hosted on Render's free tier — first load may take 30–60 seconds.
 	•   🚀 Deployed on both Render and AWS EC2 (Ubuntu, Nginx, systemd).
+
 
 🤝 WithMe — Community Needs Platform
 
@@ -51,6 +61,7 @@ Built with Flask · SQLAlchemy · Claude AI · Auth · PDF Export · Render
 	•	PDF export with ReportLab
 ⏳ Hosted on Render’s free tier — first load after inactivity may take 30–60 seconds.
 
+
 🤖 AI Recipe Generator — Ingredient → Recipe
 
 
@@ -67,11 +78,11 @@ Expense tracker, habit tracker
 
 🛠 Tech Stack
 Python · Flask · Anthropic Claude API · PostgreSQL · SQLite · SQLAlchemy · Jinja2 · HTML & CSS · Git & GitHub · Render · Cloudinary · Resend · AI chatbot · LangChain · OpenAI embeddings (RAG) ·
-Pillow (image processing) ·  Anthropic Vision API (multimodal) · Web Speech API · Cloud: AWS EC2 · Nginx · Linux (Ubuntu) 
+Pillow (image processing) · Anthropic Vision API (multimodal) · Web Speech API · Cloud: AWS EC2 · Nginx · Linux (Ubuntu) · Anthropic Tool Use (agents / function calling) · Serper API · BeautifulSoup
 
 
 📚 Currently Learning
-Fine-tuning · FastAPI · Expanding cloud skills · Building more AI-powered apps
+FastAPI · Building more AI-powered apps · Fine-tuning 
 
 
 
